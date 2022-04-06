@@ -85,3 +85,6 @@ async def on_message(message):
 # liason avec discord et mon code 
 
 client.run(token)
+
+
+# Code by Soseche
